@@ -1,6 +1,6 @@
  Olá eu sou Kaue Urzedo !
 
-- 🔭 Hoje trabalho com Front-End e Back-End tudo na linguagem C#
+- 🔭 Hoje trabalho com  Back-End tudo na linguagem C#
 - 🌱 Atualmente estudo C#
 - 📫 Meu endereço de e-mail é: kaueurzedo13@hotmail.com
 
